@@ -79,7 +79,7 @@ function filter(arrayOfStrings) {
    }
    return newArray
 }
-console.log(filter(["arbol","manzana","animal","Arana"]))
+//console.log(filter(["arbol","manzana","animal","Arana"]))
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    mayuscula,
